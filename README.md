@@ -29,9 +29,10 @@ Hi, My name is Gabriel David Vacirca
 
 
 
-<br><br>
+<!--<br><br>
 :star: Here are some projects that I'm working on:
 - [Manup](https://github.com/JzGuilherme/Mvp)
+-->
   
 
 
