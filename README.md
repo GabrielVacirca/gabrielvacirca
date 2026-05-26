@@ -47,7 +47,7 @@ Hi, My name is Gabriel David Vacirca
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,html,css,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,html,css,nodejs)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
