@@ -21,10 +21,10 @@ Hi, My name is Gabriel David Vacirca
 * 🌍  I'm based in Aracaju, Sergipe
 * ✉️  You can contact me at [gabrieldavidvacirca@gmail.com](mailto:gabrieldavidvacirca@gmail.com)
 
-* I'm currently learning:
+<!--* I'm currently learning:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge
-)&nbsp;
+)&nbsp;-->
 
 
 
@@ -50,7 +50,7 @@ Hi, My name is Gabriel David Vacirca
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,html,css,nodejs)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,nodejs,react,ts)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
